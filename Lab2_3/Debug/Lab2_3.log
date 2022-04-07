@@ -1,0 +1,8 @@
+﻿  Lab2_3.cpp
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(29,22): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(33,13): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(33,48): error C2059: syntax error: '{'
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(33,48): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(37,13): error C4596: '{ctor}': illegal qualified name in member declaration
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(37,38): error C2059: syntax error: '{'
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 2\Lab2_3\Lab2_3\BitString.h(37,38): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
